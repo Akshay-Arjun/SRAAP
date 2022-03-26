@@ -1,0 +1,5 @@
+colorama==0.4.4
+cryptocode==0.1
+Pillow==9.0.1
+pycryptodomex==3.14.1
+wget==3.2
