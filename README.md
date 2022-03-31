@@ -2,6 +2,7 @@
 Exploitation of bugs in our college website.
 SRAAP.py is used to download profile pictures,signatures,aadhar,pan of any student or faculty. </br>
 You need to enter ROLLNUMBER to download picture of student and Employee Id to download picture of faculty.
+The downloaded pictures will be automatically opened and also will store in the device.
 # Installation & Usage:
 ### Python should be installed first ! Download it from here based on your operating system :
 - Windows : https://www.microsoft.com/store/productId/9PJPW5LDXLZ5
@@ -37,7 +38,9 @@ python3 SRAAP.py
 - ``` python3 SRAAP.py ```
 # Screenshots:
 #### Android 
-
+![ss](https://github.com/Akshay-Arjun/SRAAP/blob/main/Screenshot_20220331-195121_Termux.jpg)
+#### Windows (Need to add)
+#### Linux (Need to add)
 # Note:
 Can get best results when used with Terminal because of some functions like 
 ``` 
