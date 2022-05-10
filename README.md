@@ -7,7 +7,7 @@ The downloaded pictures will be automatically opened and also will store in the 
 ### Python should be installed first ! Download it from here based on your operating system :
 - Windows : https://www.microsoft.com/store/productId/9PJPW5LDXLZ5
 - Linux : ``` sudo apt install python3 -y ```
-- Android : Download Termux App from here https://f-droid.org/repo/com.termux_118.apk and install it. </br> Now Run : </br> ```termux-setup-storage``` </br>```apt update -y ``` </br> ```apt install git -y``` </br> ```apt install python3 -y```
+- Android : Download Termux App from here https://f-droid.org/repo/com.termux_118.apk and install it. </br> Now Run : </br> ```termux-setup-storage``` </br>```apt update -y ``` </br> ```pkg upgrade -y``` </br> ```apt install git -y``` </br> ```apt install python3 -y```
 ## Linux & Android :
 #### Installation 
 ```
