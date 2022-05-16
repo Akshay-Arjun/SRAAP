@@ -36,11 +36,10 @@ python3 SRAAP.py
 - ![ss](https://user-images.githubusercontent.com/68991993/156881801-c9c8f942-2d79-4a97-98df-e93a67f22618.png)
 - ```pip install -r requirements.txt``` (Only on 1st time usage)</br>
 - ``` python3 SRAAP.py ```
-# Screenshots:
-#### Android 
-![ss](https://github.com/Akshay-Arjun/SRAAP/blob/main/Screenshot_20220331-195121_Termux.jpg)
-#### Windows (Need to add)
-#### Linux (Need to add)
+# Screenshot:
+<img src=https://github.com/Akshay-Arjun/SRAAP/blob/main/Screenshot_20220331-195121_Termux.jpg width="300">
+</br>
+
 # Note:
 Can get best results when used with Terminal because of some functions like 
 ``` 
